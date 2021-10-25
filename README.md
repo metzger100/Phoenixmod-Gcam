@@ -19,6 +19,8 @@
 
 # For Users
 
+  You can download the latest Version [here](https://github.com/Metzger100/Phoenixmod-Gcam/releases/)!
+  
   Like most other GitHubrepos we have a special site for you to submit problems, crashes and other Issues:
   [![issues - Phoenixmod-Gcam](https://img.shields.io/github/issues/metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/issues)
   If you have an Issue please first check if there is already a open Issue for your Problem.
