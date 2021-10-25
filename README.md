@@ -4,7 +4,7 @@
 [![stars - Phoenixmod-Gcam](https://img.shields.io/github/stars/Metzger100/Phoenixmod-Gcam?style=social)](https://github.com/metzger100/Phoenixmod-Gcam/stargazers)
 [![forks - Phoenixmod-Gcam](https://img.shields.io/github/forks/Metzger100/Phoenixmod-Gcam?style=social)](https://github.com/metzger100/Phoenixmod-Gcam/network/members)
 [![GitHub release](https://img.shields.io/github/release/Metzger100/Phoenixmod-Gcam?include_prereleases=&sort=semver&color=blue)](https://github.com/Metzger100/Phoenixmod-Gcam/releases/)
-[![License](https://img.shields.io/badge/License-GNU_v3-blue)](#license)
+[![License](https://img.shields.io/badge/License-GNU_v3-blue)](https://github.com/metzger100/Phoenixmod-Gcam/blob/main/LICENSE)
 [![Issues - Phoenixmod-Gcam](https://img.shields.io/github/issues/Metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/issues)
 
   [![Docs - Pheonixmod-Gcam](https://img.shields.io/badge/Docs-Phoenixmod--Gcam-orange)](https://gcamdocs.com/)
