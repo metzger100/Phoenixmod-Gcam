@@ -19,7 +19,7 @@
 # For Users
 
   Like most other GitHubrepos we have a special site for you to submit problems, crashes and other Issues:
-  https://github.com/metzger100/Phoenixmod-Gcam/issues
+  [![Issues - Phoenixmod-Gcam](https://img.shields.io/github/issues/Metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/issues)
   If you have an Issue please first check if there is already a open Issue for your Problem.
   If you open up a new Issue please provide a Crashlog an Screenshots/Screenrecords of it. You can't make logs please check the Article in the [Docs](https://docs.google.com/document/d/1E55pLmJXadr-eJ_C_5m84x3mT7XspnzRQn6FENZ1H0k/edit#bookmark=id.502ou73v2xfq) i made some time ago
   
