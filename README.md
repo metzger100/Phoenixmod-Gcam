@@ -15,10 +15,12 @@
 
   The Phoenixmod is a GCammod based on GCam Version 7.3.020. The Codebase was made by BSG and Urnyx05.
   Goal of the mod is, to give modders the opportiunity to take part at a Communityproject and interact with each others to spread knowledge and 
-  create a Gcammod which covers more Devices and needs of the users.
+  create a Gcammod which covers more Devices and needs of the users. The Code this Mod is based in is all Googles property.
 
 # For Users
 
+  You can download the latest Version [![here](https://img.shields.io/github/v/release/metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/releases/)!
+  
   Like most other GitHubrepos we have a special site for you to submit problems, crashes and other Issues:
   [![issues - Phoenixmod-Gcam](https://img.shields.io/github/issues/metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/issues)
   If you have an Issue please first check if there is already a open Issue for your Problem.
@@ -45,6 +47,7 @@
   * HomerSp
   * IDan
   * John Galt
+  * marco christmann
   * marlin_ku
   * marcello
   * mf182
@@ -57,5 +60,6 @@
   * the_dise
   * tigr
   * TlnNeun
+  * Urnyx05
   * xtrme
   * Zoran
