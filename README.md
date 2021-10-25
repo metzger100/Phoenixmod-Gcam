@@ -7,8 +7,9 @@
 [![License](https://img.shields.io/badge/License-GNU_v3-blue)](https://github.com/metzger100/Phoenixmod-Gcam/blob/main/LICENSE)
 [![issues - Phoenixmod-Gcam](https://img.shields.io/github/issues/metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/issues)
 
-[![Docs - Pheonixmod-Gcam](https://img.shields.io/badge/Docs-Phoenixmod--Gcam-orange)](https://gcamdocs.com/)
-[![GDocs - Pheonixmod-Gcam](https://img.shields.io/badge/GDocs-Phoenixmod--Gcam-yellow)](https://docs.google.com/document/d/1E55pLmJXadr-eJ_C_5m84x3mT7XspnzRQn6FENZ1H0k)
+[![Docs - Phoenixmod-Gcam](https://img.shields.io/badge/Docs-Phoenixmod--Gcam-orange)](https://gcamdocs.com/)
+[![GDocs - Phoenixmod-Gcam](https://img.shields.io/badge/GDocs-Phoenixmod--Gcam-yellow)](https://docs.google.com/document/d/1E55pLmJXadr-eJ_C_5m84x3mT7XspnzRQn6FENZ1H0k)
+[![Wiki - Phoenixmod-Gcam](https://img.shields.io/badge/Wiki-Phoenixmod--Gcam-red)](https://github.com/metzger100/Phoenixmod-Gcam/wiki)
 <div align="left">
 
 # Phoenixmod-Gcam
