@@ -5,7 +5,7 @@
 [![forks - Phoenixmod-Gcam](https://img.shields.io/github/forks/Metzger100/Phoenixmod-Gcam?style=social)](https://github.com/metzger100/Phoenixmod-Gcam/network/members)
 [![GitHub release](https://img.shields.io/github/release/Metzger100/Phoenixmod-Gcam?include_prereleases=&sort=semver&color=blue)](https://github.com/Metzger100/Phoenixmod-Gcam/releases/)
 [![License](https://img.shields.io/badge/License-GNU_v3-blue)](https://github.com/metzger100/Phoenixmod-Gcam/blob/main/LICENSE)
-[![issues - Phoenixmod-Gcam](https://img.shields.io/github/issues/Metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/issues)
+[![issues - Phoenixmod-Gcam](https://img.shields.io/github/issues/metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/issues)
 
   [![Docs - Pheonixmod-Gcam](https://img.shields.io/badge/Docs-Phoenixmod--Gcam-orange)](https://gcamdocs.com/)
 [![GDocs - Pheonixmod-Gcam](https://img.shields.io/badge/GDocs-Phoenixmod--Gcam-yellow)](https://docs.google.com/document/d/1E55pLmJXadr-eJ_C_5m84x3mT7XspnzRQn6FENZ1H0k)
@@ -20,7 +20,7 @@
 # For Users
 
   Like most other GitHubrepos we have a special site for you to submit problems, crashes and other Issues:
-  [![issues - Phoenixmod-Gcam](https://img.shields.io/github/issues/Metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/issues)
+  [![issues - Phoenixmod-Gcam](https://img.shields.io/github/issues/metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/issues)
   If you have an Issue please first check if there is already a open Issue for your Problem.
   If you open up a new Issue please provide a Crashlog an Screenshots/Screenrecords of it. You can't make logs please check the Article in the [Docs](https://docs.google.com/document/d/1E55pLmJXadr-eJ_C_5m84x3mT7XspnzRQn6FENZ1H0k/edit#bookmark=id.502ou73v2xfq) i made some time ago
   
