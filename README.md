@@ -14,14 +14,13 @@
 
 # Phoenixmod-Gcam
 
-  The Phoenixmod is a GCam mod based on GCam Version 7.3.020. The code base was made by BSG and Urnyx05.
+  The Phoenixmod is a GCam mod based on GCam Version 7.3.020. The code base was made by BSG and Urnyx05.\
   Goal of the mod is, to give modders the opportiunity to take part at a community project and interact with each others to spread knowledge and 
   create a Gcam mod which covers more devices and needs of the users. The code this mod is based on, is all Googles property.
 
 # For Users
 
-  You can download the latest Version [![here](https://img.shields.io/github/v/release/metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/releases/)!
-  
+  You can download the latest Version [![here](https://img.shields.io/github/v/release/metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/releases/)!\
   Like most other GitHub repos we have a special site for you to submit problems, crashes and other Issues:
   [![issues - Phoenixmod-Gcam](https://img.shields.io/github/issues/metzger100/Phoenixmod-Gcam)](https://github.com/Metzger100/Phoenixmod-Gcam/issues)
   If you have an Issue please first check if there is already a open Issue for your problem.
@@ -31,8 +30,8 @@
 # For Devs
   
   This repo is pure smali project so please code in smali please. For compilation I recommend to use [APKEasyTool](https://forum.xda-developers.com/t/tool-windows-apk-easy-tool-v1-59-2-2021-04-03.3333960/). 
-  After smali-projects are not easy to work with, I recommend to use Android Studio to code in Java compile it up to an apk. Then you decompile it with apktool and copy the smali code into the smali project. 
-  If you made some **new graphics** please upload the raw imagefiles (e.g. .svg; .png) [here](https://github.com/metzger100/Phoenixmod-Gcam-Data).
+  After smali-projects are not easy to work with, I recommend to use Android Studio to code in Java compile it up to an apk. Then you decompile it with apktool and copy the smali code into the smali project.\
+  If you made some **new graphics** please upload the raw imagefiles (e.g. .svg; .png) [here](https://github.com/metzger100/Phoenixmod-Gcam-Data).\
   If you are new to Gcam or smali/gcammodding I have made a [Wiki](https://github.com/metzger100/Phoenixmod-Gcam/wiki). Before this site I made some Googledocs and the I have not yet transferred this completely to the Webpage.
   The GDocs are [here](https://docs.google.com/document/d/1E55pLmJXadr-eJ_C_5m84x3mT7XspnzRQn6FENZ1H0k/).
   
