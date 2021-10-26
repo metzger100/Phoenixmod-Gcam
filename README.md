@@ -37,7 +37,7 @@
   
 # Credits
 
-  This mod is built by those modders:
+  This mod is built with code made by those modders and Google:
   * Arnova8G2
   * BSG
   * back.rider
