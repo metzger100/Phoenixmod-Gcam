@@ -31,7 +31,7 @@
   
   This repo is pure smali project so please code in smali please. For compilation I recommend to use [APKEasyTool](https://forum.xda-developers.com/t/tool-windows-apk-easy-tool-v1-59-2-2021-04-03.3333960/). 
   After smali-projects are not easy to work with, I recommend to use Android Studio to code in Java compile it up to an apk. Then you decompile it with apktool and copy the smali code into the smali project.\
-  If you made some **new graphics** please upload the raw imagefiles (e.g. .svg; .png) [here](https://github.com/metzger100/Phoenixmod-Gcam-Data).\
+  If you made some **new graphics** please upload the raw imagefiles (e.g. .svg; .png) [here](https://github.com/metzger100/Phoenixmod-Gcam-Data) to make it easier for others to apply changes.\
   If you are new to Gcam or smali/gcammodding I have made a [Wiki](https://github.com/metzger100/Phoenixmod-Gcam/wiki). Before this site I made some Googledocs and the I have not yet transferred this completely to the Webpage.
   The GDocs are [here](https://docs.google.com/document/d/1E55pLmJXadr-eJ_C_5m84x3mT7XspnzRQn6FENZ1H0k/).
   
