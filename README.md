@@ -12,7 +12,7 @@
 <img src="https://github.com/metzger100/Phoenixmod-Gcam-Data/blob/main/wiki-images/Phoenixmodsmall.png" width="208" height="185">
 <div align="left">
 
-# Phoenixmod-Gcam
+# Phoenixmod Gcam
 
   The Phoenixmod is a GCam mod based on GCam Version 7.3.020. The code base was made by BSG, Urnyx05 and me.\
   Goal of the mod is, to give modders the opportiunity to take part at a community project and interact with each others to spread knowledge and 
