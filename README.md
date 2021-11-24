@@ -8,6 +8,9 @@
 
 [![GDocs - Phoenixmod-Gcam](https://img.shields.io/badge/GDocs-Phoenixmod--Gcam-orange)](https://docs.google.com/document/d/1E55pLmJXadr-eJ_C_5m84x3mT7XspnzRQn6FENZ1H0k)
 [![Wiki - Phoenixmod-Gcam](https://img.shields.io/badge/Wiki-Phoenixmod--Gcam-orange)](https://github.com/metzger100/Phoenixmod-Gcam/wiki)
+  
+[![Gcam-Java-Dummy - Phoenixmod-Gcam](https://img.shields.io/badge/GDocs-Phoenixmod--Gcam-orange)](https://github.com/metzger100/Phoenixmod-Gcam-Dummy)
+[![Projectdata - Phoenixmod-Gcam](https://img.shields.io/badge/Wiki-Phoenixmod--Gcam-orange)](https://github.com/metzger100/Phoenixmod-Gcam-Data)
 
 <img src="https://github.com/metzger100/Phoenixmod-Gcam-Data/blob/main/wiki-images/Phoenixmodsmall.png" width="208" height="185">
 <div align="left">
