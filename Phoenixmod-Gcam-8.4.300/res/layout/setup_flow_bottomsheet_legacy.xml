@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="24.0dip" android:src="@drawable/locked_folder_dark" />
+        <TextView android:textSize="22.0sp" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setup_mars_title" />
+        <TextView android:textSize="14.0sp" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="19.0dip" android:text="@string/setup_mars_description" />
+        <com.google.android.material.button.MaterialButton android:textColor="@color/google_blue300" android:id="@id/photos_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/go_to_photos_btn_text" android:fontFamily="@font/google_sans_medium_compat" android:layout_marginHorizontal="24.0dip" android:layout_marginVertical="18.0dip" android:paddingVertical="8.0dip" android:lineHeight="20.0sp" app:backgroundTint="@color/google_grey800" app:backgroundTintMode="src_atop" app:cornerRadius="4.0dip" app:rippleColor="#33ffffff" style="@style/Widget.GoogleMaterial.Button" />
+    </LinearLayout>
+</merge>

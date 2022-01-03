@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="settingslib_colorSurfaceHeader">@android:color/Red_700</color>
+    <color name="settingslib_colorSurfaceVariant">@android:color/Red_700</color>
+    <color name="settingslib_dialog_accent">@android:color/background_cache_hint_selector_material_light</color>
+    <color name="settingslib_dialog_background">@android:color/Red_800</color>
+    <color name="settingslib_dialog_colorError">#fff28b82</color>
+    <color name="settingslib_text_color_primary_device_default">@android:color/GM2_grey_800</color>
+    <color name="settingslib_thumb_disabled_color">@android:color/Red_700</color>
+    <color name="settingslib_thumb_off_color">@android:color/Pink_800</color>
+    <color name="settingslib_track_off_color">@android:color/Red_700</color>
+    <color name="settingslib_track_on_color">@color/settingslib_switch_track_on</color>
+    <color name="storage_card_background_low">@color/google_transparent</color>
+    <color name="storage_card_background_normal">@color/google_transparent</color>
+    <color name="storage_card_background_out">@color/google_transparent</color>
+</resources>

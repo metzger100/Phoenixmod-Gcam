@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phenotype-registrations>
+    <phenotype-registration>
+        <configuration-package>com.google.android.libraries.performance.primes</configuration-package>
+        <log-sources>
+            <log-source>CLIENT_LOGGING_PROD</log-source>
+            <log-source>CHIPS</log-source>
+            <log-source>SOCIAL_AFFINITY_CHIPS</log-source>
+            <log-source>GMAIL_ANDROID_PRIMES</log-source>
+            <log-source>ANDROID_GMAIL</log-source>
+            <log-source>GMAIL_ANDROID</log-source>
+            <log-source>GMAIL_SYNC_HEALTH</log-source>
+            <log-source>GMAIL_COUNTERS</log-source>
+            <log-source>OBAKE</log-source>
+            <log-source>ONEGOOGLE_MOBILE</log-source>
+            <log-source>PEOPLE_AUTOCOMPLETE</log-source>
+            <log-source>SOCIAL_AFFINITY</log-source>
+            <log-source>SENDKIT</log-source>
+        </log-sources>
+        <auto-subpackage>true</auto-subpackage>
+        <params>CLTLw74B</params>
+    </phenotype-registration>
+</phenotype-registrations>

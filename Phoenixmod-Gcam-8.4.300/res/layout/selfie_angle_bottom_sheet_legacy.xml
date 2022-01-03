@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="24.0dip" android:layout_marginEnd="24.0dip">
+        <TextView android:textSize="14.0sp" android:textColor="@color/google_white" android:gravity="start" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/selfie_angle_bottom_sheet_description" android:lineHeight="20.0sp" />
+        <com.google.android.material.button.MaterialButton android:textColor="@color/google_blue300" android:id="@id/selfie_angle_bottom_sheet_turn_off_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:text="@string/selfie_angle_bottom_sheet_turn_off_button" android:fontFamily="@font/google_sans_medium_compat" android:paddingVertical="12.0dip" android:lineHeight="20.0sp" app:backgroundTint="@color/google_grey800" app:backgroundTintMode="src_atop" app:cornerRadius="4.0dip" style="@style/Widget.GoogleMaterial.Button" />
+        <com.google.android.material.button.MaterialButton android:textColor="@color/google_blue300" android:id="@id/selfie_angle_bottom_sheet_setting_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:layout_marginBottom="32.0dip" android:text="@string/selfie_angle_bottom_sheet_setting_button" android:fontFamily="@font/google_sans_medium_compat" android:paddingVertical="12.0dip" android:lineHeight="20.0sp" app:backgroundTint="@color/google_grey800" app:backgroundTintMode="src_atop" app:cornerRadius="4.0dip" style="@style/Widget.GoogleMaterial.Button" />
+    </LinearLayout>
+</merge>

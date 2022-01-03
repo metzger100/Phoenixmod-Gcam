@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$$long_exposure_animation__32__0" android:duration="917" android:startOffset="0" android:valueFrom="#ffffffff" android:valueTo="#ffffffff" android:valueType="colorType" android:propertyName="strokeColor" />
+    <objectAnimator android:interpolator="@drawable/$$long_exposure_animation__32__1" android:duration="83" android:startOffset="917" android:valueFrom="#ffffffff" android:valueTo="#ff2c2c2c" android:valueType="colorType" android:propertyName="strokeColor" />
+    <objectAnimator android:interpolator="@drawable/$$long_exposure_animation__32__2" android:duration="1917" android:startOffset="1000" android:valueFrom="#ff2c2c2c" android:valueTo="#ff2c2c2c" android:valueType="colorType" android:propertyName="strokeColor" />
+    <objectAnimator android:interpolator="@drawable/$$long_exposure_animation__32__3" android:duration="83" android:startOffset="2917" android:valueFrom="#ff2c2c2c" android:valueTo="#ffffffff" android:valueType="colorType" android:propertyName="strokeColor" />
+</set>

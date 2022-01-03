@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$$action_animation__40__0" android:duration="833" android:startOffset="0" android:valueFrom="-5.48" android:valueTo="-17.08" android:valueType="floatType" android:propertyName="rotation" />
+    <objectAnimator android:interpolator="@drawable/$$action_animation__40__1" android:duration="500" android:startOffset="833" android:valueFrom="-17.08" android:valueTo="-5.48" android:valueType="floatType" android:propertyName="rotation" />
+    <objectAnimator android:interpolator="@drawable/$$action_animation__40__2" android:duration="500" android:startOffset="1333" android:valueFrom="-5.48" android:valueTo="-5.48" android:valueType="floatType" android:propertyName="rotation" />
+    <objectAnimator android:interpolator="@drawable/$$action_animation__40__3" android:duration="500" android:startOffset="1833" android:valueFrom="-5.48" android:valueTo="-17.08" android:valueType="floatType" android:propertyName="rotation" />
+    <objectAnimator android:interpolator="@drawable/$$action_animation__40__4" android:duration="500" android:startOffset="2333" android:valueFrom="-17.08" android:valueTo="-5.48" android:valueType="floatType" android:propertyName="rotation" />
+    <objectAnimator android:interpolator="@drawable/$$action_animation__40__5" android:duration="500" android:startOffset="2833" android:valueFrom="-5.48" android:valueTo="-17.08" android:valueType="floatType" android:propertyName="rotation" />
+    <objectAnimator android:interpolator="@drawable/$$action_animation__40__6" android:duration="500" android:startOffset="3333" android:valueFrom="-17.08" android:valueTo="-5.48" android:valueType="floatType" android:propertyName="rotation" />
+    <objectAnimator android:interpolator="@drawable/$$action_animation__40__7" android:duration="500" android:startOffset="3833" android:valueFrom="-5.48" android:valueTo="-17.08" android:valueType="floatType" android:propertyName="rotation" />
+</set>

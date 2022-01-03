@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:color="?colorOnSurface" android:alpha="@dimen/material_emphasis_disabled" />
+    <item android:state_checkable="false" android:state_pressed="true" android:color="?colorOnContainerStateContent" />
+    <item android:state_focused="true" android:state_checkable="false" android:color="?colorOnContainerStateContent" />
+    <item android:state_checkable="false" android:color="?colorOnContainerStateContent" android:state_hovered="true" />
+    <item android:state_checkable="false" android:color="?colorOnContainer" />
+    <item android:state_checked="true" android:state_pressed="true" android:color="?colorOnSecondaryContainerStateContent" />
+    <item android:state_focused="true" android:state_checked="true" android:color="?colorOnSecondaryContainerStateContent" />
+    <item android:state_checked="true" android:color="?colorOnSecondaryContainerStateContent" android:state_hovered="true" />
+    <item android:state_checked="true" android:color="?colorOnSecondaryContainer" />
+    <item android:state_pressed="true" android:color="?colorOnSurfaceStateContent" />
+    <item android:state_focused="true" android:color="?colorOnSurfaceStateContent" />
+    <item android:color="?colorOnSurfaceStateContent" android:state_hovered="true" />
+    <item android:color="?colorOnSurface" />
+</selector>

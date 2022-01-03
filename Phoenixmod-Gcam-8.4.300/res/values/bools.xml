@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="abc_action_bar_embed_tabs">true</bool>
+    <item type="bool" name="APKTOOL_DUMMY_1" />
+    <item type="bool" name="APKTOOL_DUMMY_2" />
+    <item type="bool" name="APKTOOL_DUMMY_3" />
+    <bool name="config_materialPreferenceIconSpaceReserved">false</bool>
+    <bool name="enable_system_alarm_service_default">false</bool>
+    <bool name="enable_system_foreground_service_default">true</bool>
+    <bool name="enable_system_job_service_default">true</bool>
+    <item type="bool" name="APKTOOL_DUMMY_8" />
+    <bool name="gm3_sys_typescale_body1_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_body2_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_button_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_caption_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_display1_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_display2_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_display3_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_headline1_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_headline2_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_headline3_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_headline4_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_headline5_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_headline6_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_overline_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_subhead1_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_subhead2_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_subtitle1_text_all_caps">false</bool>
+    <bool name="gm3_sys_typescale_subtitle2_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_body1_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_body2_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_button_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_caption_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_display1_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_display2_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_display3_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_headline1_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_headline2_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_headline3_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_headline4_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_headline5_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_headline6_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_overline_text_all_caps">true</bool>
+    <bool name="gm_sys_typescale_subhead1_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_subhead2_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_subtitle1_text_all_caps">false</bool>
+    <bool name="gm_sys_typescale_subtitle2_text_all_caps">false</bool>
+    <item type="bool" name="APKTOOL_DUMMY_2d" />
+    <item type="bool" name="APKTOOL_DUMMY_2e" />
+    <item type="bool" name="APKTOOL_DUMMY_2f" />
+    <item type="bool" name="APKTOOL_DUMMY_30" />
+    <item type="bool" name="APKTOOL_DUMMY_31" />
+    <item type="bool" name="APKTOOL_DUMMY_32" />
+    <item type="bool" name="APKTOOL_DUMMY_33" />
+    <item type="bool" name="APKTOOL_DUMMY_34" />
+    <item type="bool" name="APKTOOL_DUMMY_35" />
+    <item type="bool" name="APKTOOL_DUMMY_36" />
+    <item type="bool" name="APKTOOL_DUMMY_37" />
+    <item type="bool" name="APKTOOL_DUMMY_38" />
+    <item type="bool" name="APKTOOL_DUMMY_39" />
+    <item type="bool" name="APKTOOL_DUMMY_3a" />
+    <item type="bool" name="APKTOOL_DUMMY_3b" />
+    <item type="bool" name="APKTOOL_DUMMY_3c" />
+    <bool name="settingslib_config_allow_divider">false</bool>
+    <bool name="settingslib_config_icon_space_reserved">false</bool>
+    <bool name="workmanager_test_configuration">false</bool>
+</resources>

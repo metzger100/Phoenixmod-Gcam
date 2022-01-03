@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:textAppearance="?textAppearanceBody2" android:textSize="14.0sp" android:textColor="@color/google_white" android:padding="0.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/motion_photos_bottomsheet_text" android:fontFamily="sans-serif" android:layout_marginHorizontal="24.0dip" android:lineHeight="20.0sp" />
+        <androidx.cardview.widget.CardView android:layout_gravity="center_horizontal" android:id="@id/bottom_sheet_video_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:layout_marginHorizontal="24.0dip" app:cardCornerRadius="4.0dip" app:cardElevation="0.0dip">
+            <com.google.android.apps.camera.ui.eduimageview.EduImageView android:id="@id/bottom_sheet_video" android:layout_width="340.0dip" android:layout_height="270.0dip" />
+        </androidx.cardview.widget.CardView>
+        <TextView android:textAppearance="?textAppearanceCaption" android:textColor="@color/google_white" android:layout_gravity="center" android:id="@id/bottom_sheet_image_caption" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="@string/motion_photos_video_caption" android:textAlignment="center" android:layout_marginHorizontal="24.0dip" android:lineHeight="16.0sp" />
+        <TextView android:textAppearance="?textAppearanceBody2" android:textSize="14.0sp" android:textColor="@color/google_white" android:padding="0.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:text="@string/motion_photos_additional_info" android:fontFamily="sans-serif" android:layout_marginHorizontal="24.0dip" android:lineHeight="20.0sp" />
+        <com.google.android.material.button.MaterialButton android:textColor="@color/google_blue300" android:id="@id/learn_more_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/motion_photos_bottomsheet_learn_more" android:fontFamily="@font/google_sans_medium_compat" android:layout_marginHorizontal="24.0dip" android:layout_marginVertical="18.0dip" android:paddingVertical="8.0dip" android:lineHeight="20.0sp" app:backgroundTint="@color/google_grey800" app:backgroundTintMode="src_atop" app:cornerRadius="4.0dip" app:rippleColor="#33ffffff" style="@style/Widget.GoogleMaterial.Button" />
+    </LinearLayout>
+</merge>

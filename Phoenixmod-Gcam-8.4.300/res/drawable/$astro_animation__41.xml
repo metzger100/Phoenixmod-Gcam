@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="together"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
+    <objectAnimator android:interpolator="@drawable/$$astro_animation__41__0" android:duration="2167" android:startOffset="0" android:valueFrom="0" android:valueTo="0" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$$astro_animation__41__1" android:duration="2167" android:startOffset="0" android:valueFrom="0" android:valueTo="0" android:valueType="floatType" android:propertyName="scaleY" />
+    <objectAnimator android:interpolator="@drawable/$$astro_animation__41__2" android:duration="417" android:startOffset="2167" android:valueFrom="0" android:valueTo="0.50505" android:valueType="floatType" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@drawable/$$astro_animation__41__3" android:duration="417" android:startOffset="2167" android:valueFrom="0" android:valueTo="0.50505" android:valueType="floatType" android:propertyName="scaleY" />
+</set>

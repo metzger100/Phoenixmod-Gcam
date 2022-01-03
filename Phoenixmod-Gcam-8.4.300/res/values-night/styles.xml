@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CameraListPreferenceStyle.Legacy" parent="@android:style/ThemeOverlay.Material.Dialog.Alert">
+        <item name="android:textColor">@color/google_dark_blue500</item>
+        <item name="android:buttonBarPositiveButtonStyle">@style/CameraDialogButtonStyle.Legacy</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/CameraDialogButtonStyle.Legacy</item>
+        <item name="colorAccent">@color/settings_accent_color</item>
+    </style>
+    <style name="SettingsTitleTextAppearance.Legacy" parent="@style/SettingsTitleTextAppearance">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:fontFamily">@font/google_sans_medium_compat</item>
+    </style>
+    <style name="Theme.AppCompat.DayNight" parent="@style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="@style/Theme.AppCompat.Dialog.Alert" />
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="@style/Theme.AppCompat.NoActionBar" />
+    <style name="Theme.CameraSettings.Legacy" parent="@style/Theme.GoogleMaterial.DayNight.NoActionBar">
+        <item name="android:textColorPrimary">@color/google_dark_blue500</item>
+        <item name="android:textColorSecondary">@color/google_grey500</item>
+        <item name="android:windowBackground">@color/google_grey900</item>
+        <item name="android:preferenceCategoryStyle">@style/PreferenceCategoryStyle.Legacy</item>
+        <item name="android:preferenceStyle">@style/PreferenceStyle</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:tint">@android:color/white</item>
+        <item name="android:divider">#1edadce0</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:alertDialogTheme">@style/CameraListPreferenceStyle.Legacy</item>
+        <item name="android:colorControlActivated">@color/settings_accent_color</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="colorPrimary">@color/google_grey900</item>
+    </style>
+    <style name="Theme.CollapsingToolbar.Settings" parent="@style/Theme.MaterialComponents.DayNight">
+        <item name="colorAccent">@color/settingslib_accent_device_default_dark</item>
+        <item name="colorPrimary">@color/settingslib_primary_dark_device_default_settings</item>
+        <item name="elevationOverlayColor">?colorPrimary</item>
+        <item name="elevationOverlayEnabled">true</item>
+    </style>
+    <style name="Theme.GoogleMaterial.DayNight.NoActionBar" parent="@style/Theme.GoogleMaterial.Dark.NoActionBar" />
+    <style name="Theme.GoogleMaterial3.DayNight.NoActionBar" parent="@style/Theme.GoogleMaterial3.Dark.NoActionBar" />
+    <style name="Theme.MaterialComponents.DayNight" parent="@style/Theme.MaterialComponents" />
+</resources>

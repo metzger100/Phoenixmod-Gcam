@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.apps.camera.ui.popupmenu.PopupMenuButton android:layout_gravity="center|right|top" android:id="@id/mars_menu_button" android:padding="@dimen/button_place_holder_padding" android:visibility="invisible" android:layout_width="@dimen/button_container_size" android:layout_height="@dimen/button_container_size" android:layout_marginTop="@dimen/mars_button_margin_top" android:layout_marginRight="@dimen/mars_button_margin_right" android:contentDescription="@string/mars_menu_title" />
+    <com.google.android.apps.camera.ui.popupmenu.PopupMenuView android:layout_gravity="center|right|top" android:id="@id/mars_menu_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/mars_menu_margin_top" />
+</merge>
