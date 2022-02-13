@@ -33,7 +33,7 @@
   
   This is a pure Smali project, so providing your code in Smali is mandatory. For compilation, I recommend to use the [APKEasyTool](https://forum.xda-developers.com/t/tool-windows-apk-easy-tool-v1-59-2-2021-04-03.3333960/), but you are free to use the apktool of your choice. 
   Smali projects are not easy to work with, so I recommend Android Studio to code in Java and to compile it to an apk; then decompile it with apktool and integrate the Smali code into the Smali project.\
-  If you made some new graphics for the project, please upload raw imagefiles, e. g. *.svg or *.png, [here](https://github.com/metzger100/Phoenixmod-Gcam-Data), as this makes it easier for others to apply further changes to your graphics if needed.\
+  If you made some **new graphics** for the project, please upload raw imagefiles, e. g. *.svg or *.png, [here](https://github.com/metzger100/Phoenixmod-Gcam-Data), as this makes it easier for others to apply further changes to your graphics if needed.\
   We also have an [Android Studio project](https://github.com/metzger100/Phoenixmod-Gcam-Dummy) for coding additional features for GCam in Java. The ASP is a mockproject/dummyproject.
   If you are new to Smali or Gcam modding, please refer to my [Wiki](https://github.com/metzger100/Phoenixmod-Gcam/wiki). Note that some contents of my previously made Googledocs are not yet transferred to the wiki.
   The previously mentioned GDocs can be found [here](https://docs.google.com/document/d/1E55pLmJXadr-eJ_C_5m84x3mT7XspnzRQn6FENZ1H0k/).
