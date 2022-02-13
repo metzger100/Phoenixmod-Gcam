@@ -67,3 +67,4 @@
   * Urnyx05
   * xtrme
   * Zoran
+  * Namoria
