@@ -31,7 +31,7 @@
     <string name="APKTOOL_DUMMY_1c" />
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="about_mars_desc">Save photos and videos to a private storage space in Google Photos on your device</string>
-    <string name="about_mars_desc_2">Easily move photos and videos to Locked Folder or back to your gallery</string>
+    <string name="about_mars_desc_2">Easily move photos and videos to locked Folder or back to your gallery</string>
     <string name="about_mars_title">Keep photos and videos private</string>
     <string name="accessibility_autotimer_start">Start auto-timer</string>
     <string name="accessibility_autotimer_stop">Stop auto-timer</string>
